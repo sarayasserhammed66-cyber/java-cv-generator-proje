@@ -207,10 +207,8 @@ Uygulama başarıyla çalıştığında PDF dosyasında aşağıdaki bilgiler bu
 Profil fotoğrafının görüntülenmesi için `images/profile.jpg` dosyasının doğru konumda bulunması gerekir. Dosya bulunamazsa uygulama fotoğraf yerine `[Profile Image]` metnini gösterir.
 
 ## 11. Yapay Zekâ Araçlarının Kullanımı
+Bu projeyi yaparken yapay zekâ araçlarından yardım aldım. Bu araçları kod yazma, kodu anlama ve karşılaştığım hataları çözme konusunda kullandım. Projeyi kendim inceleyerek çalışmasını kontrol ettim.
 
-Projenin geliştirilmesi sırasında yapay zekâ araçlarından yararlanıldıysa, kullanılan araçlar ve kullanım amaçları doğru ve açık bir şekilde belirtilmelidir.
-
-Örneğin, gerçekten yararlanılmışsa bu araçlar Java kodunu anlamak, programlama kavramlarını öğrenmek, hata mesajlarını incelemek veya proje dokümantasyonunu düzenlemek amacıyla kullanılabilir.
 
 Bu bölüm, proje sürecinde gerçekten gerçekleştirilen çalışmalara göre düzenlenmelidir.
 
